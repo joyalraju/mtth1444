@@ -7,6 +7,6 @@ int main()
 while (1+epsmach > 1)
 { epsmach = epsmach/2;
 }
-epsmach= epsmach*2;
-cout << "the amount of round off error is " << epsmach << endl;
+epsmach1= epsmach1*2;
+cout << "the amount of round off error is " << epsmach1 << endl;
 }
